@@ -1,0 +1,13 @@
+Comandos utilizados en las horas de clase del dia 16/10/2018
+git config --list 				muestra la configuración del git
+git config --global user.name "name_user" 	crear el usuario de git
+git config --global user.email "su correo"
+pwd						visualiza la ubicación
+cd nombre_carpeta				change directory
+cd desktop					dirigirse al directorio
+ls						lista de archivos y carpeta
+git init
+git add hola.txt
+git status					muestra el estado de los archivos git
+clear 						limpia patalla
+git commit -n "texto que se desea poner"
